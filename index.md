@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Niftynoted
 ---
 
 # Welcome to My Niftynoted!
