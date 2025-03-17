@@ -4,4 +4,5 @@ title: Niftynoted
 ---
 
 # Welcome to My Niftynoted!
-Start writing your amazing posts here.
+this is my first GitHub 
+site
