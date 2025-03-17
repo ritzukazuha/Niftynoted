@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Welcome to My Niftynoted!
+Welcome to My Niftynoted!
 this is my first GitHub 
 site
