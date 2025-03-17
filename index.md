@@ -1,7 +1,7 @@
 ---
 layout: home
-title: My Blog
+title: Niftynoted
 ---
 
-# Welcome to My Blog!
+# Welcome to My Niftynoted!
 Start writing your amazing posts here.
